@@ -2,10 +2,9 @@ package main
 
 import (
 	"log"
+	"microservices/introduction/handlers"
 	"net/http"
 	"os"
-
-	"example.com/handlers"
 )
 
 func main() {
